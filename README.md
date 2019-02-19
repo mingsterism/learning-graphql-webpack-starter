@@ -2,5 +2,7 @@
 ### Working Code
 
 To run the code
-`npm run dev`
-`node  dist/index.js`
+```
+npm run dev
+node  dist/index.js
+```
